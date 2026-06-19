@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e1b4b,100:312e81&height=200&section=header&text=Jaime%20Garcia%20Caama%C3%B1o&fontSize=42&fontColor=f8fafc&animation=twinkling&desc=DevOps%20Engineer%20%C2%B7%20Cloud%20Infrastructure%20%C2%B7%20Open%20Source&descSize=18&descAlignY=58&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e1b4b,100:312e81&height=240&section=header&text=Jaime%20Garcia%20Caama%C3%B1o&fontSize=42&fontColor=f8fafc&fontAlignY=46&animation=twinkling&desc=DevOps%20Engineer%20%C2%B7%20Cloud%20Infrastructure%20%C2%B7%20Open%20Source&descSize=17&descAlignY=70&descAlign=50"/>
 
 <br/>
 
@@ -119,28 +119,20 @@ Built with **Next.js**, **PostgreSQL** and **Docker**. Focused on reliability, m
 <table>
   <tr>
     <td valign="top" width="50%">
-
-**Languages**  
-TypeScript · JavaScript · Python · C# / .NET
-
-**Backend & data**  
-Node.js · REST APIs · PostgreSQL · Database design
-
-**Frontend**  
-React · Next.js · Tailwind CSS
-
+      <strong>Languages</strong><br/>
+      TypeScript · JavaScript · Python · C# / .NET<br/><br/>
+      <strong>Backend &amp; data</strong><br/>
+      Node.js · REST APIs · PostgreSQL · Database design<br/><br/>
+      <strong>Frontend</strong><br/>
+      React · Next.js · Tailwind CSS
     </td>
     <td valign="top" width="50%">
-
-**Cloud & platforms**  
-AWS · Azure · Google Cloud · Kubernetes
-
-**DevOps & automation**  
-Docker · CI/CD · Terraform · Bicep · GitOps · Azure DevOps · Jenkins
-
-**Observability**  
-Grafana · Prometheus · Application Insights · alerting & SLOs
-
+      <strong>Cloud &amp; platforms</strong><br/>
+      AWS · Azure · Google Cloud · Kubernetes<br/><br/>
+      <strong>DevOps &amp; automation</strong><br/>
+      Docker · CI/CD · Terraform · Bicep · GitOps · Azure DevOps · Jenkins<br/><br/>
+      <strong>Observability</strong><br/>
+      Grafana · Prometheus · Application Insights · alerting &amp; SLOs
     </td>
   </tr>
 </table>
