@@ -38,12 +38,12 @@ I enjoy designing **backend systems**, **cloud-native architectures** and **deve
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jaimegcaam&show_icons=true&theme=tokyonight&hide_border=true&hide_title=false&rank_icon=percentile" alt="GitHub stats" width="48%"/>
+<img src="./profile/stats.svg" alt="GitHub stats" width="48%"/>
 <img src="https://streak-stats.demolab.com/?user=jaimegcaam&theme=tokyonight&hide_border=true" alt="GitHub streak" width="48%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaimegcaam&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" width="60%"/>
+<img src="./profile/top-langs.svg" alt="Top languages" width="60%"/>
 
 </div>
 
